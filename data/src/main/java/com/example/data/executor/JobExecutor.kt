@@ -41,7 +41,7 @@ class JobExecutor @Inject constructor() :
         }
 
         companion object {
-            private val THREAD_NAME = "gitygard_"
+            private val THREAD_NAME = "kian_"
         }
     }
 
