@@ -1,0 +1,403 @@
+{
+  "results": [
+    {
+      "popularity": 169.659,
+      "vote_count": 853,
+      "video": false,
+      "poster_path": "/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
+      "id": 481848,
+      "adult": false,
+      "backdrop_path": "/9sXHqZTet3Zg5tgcc0hCDo8Tn35.jpg",
+      "original_language": "en",
+      "original_title": "The Call of the Wild",
+      "genre_ids": [
+        12,
+        18,
+        10751
+      ],
+      "title": "The Call of the Wild",
+      "vote_average": 7.3,
+      "overview": "Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team—and later its leader—Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.",
+      "release_date": "2020-02-19"
+    },
+    {
+      "popularity": 169.051,
+      "vote_count": 2099,
+      "video": false,
+      "poster_path": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+      "id": 338762,
+      "adult": false,
+      "backdrop_path": "/ocUrMYbdjknu2TwzMHKT9PBBQRw.jpg",
+      "original_language": "en",
+      "original_title": "Bloodshot",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "title": "Bloodshot",
+      "vote_average": 7.1,
+      "overview": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+      "release_date": "2020-03-05"
+    },
+    {
+      "popularity": 167.086,
+      "vote_count": 3658,
+      "video": false,
+      "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "id": 454626,
+      "adult": false,
+      "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog",
+      "genre_ids": [
+        28,
+        35,
+        878,
+        10751
+      ],
+      "title": "Sonic the Hedgehog",
+      "vote_average": 7.6,
+      "overview": "Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+      "release_date": "2020-02-12"
+    },
+    {
+      "popularity": 129.395,
+      "vote_count": 7050,
+      "video": false,
+      "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "id": 496243,
+      "adult": false,
+      "backdrop_path": "/ApiBzeaa95TNYliSbQ8pJv4Fje7.jpg",
+      "original_language": "ko",
+      "original_title": "기생충",
+      "genre_ids": [
+        35,
+        18,
+        53
+      ],
+      "title": "Parasite",
+      "vote_average": 8.5,
+      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "release_date": "2019-05-30"
+    },
+    {
+      "popularity": 97.728,
+      "vote_count": 627,
+      "video": false,
+      "poster_path": "/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+      "id": 539537,
+      "adult": false,
+      "backdrop_path": "/x80ZIVGUJ6plcUBcgVZ6DPKT7vc.jpg",
+      "original_language": "en",
+      "original_title": "Fantasy Island",
+      "genre_ids": [
+        14,
+        27,
+        878
+      ],
+      "title": "Fantasy Island",
+      "vote_average": 6.1,
+      "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+      "release_date": "2020-02-12"
+    },
+    {
+      "popularity": 66.889,
+      "vote_count": 213,
+      "video": false,
+      "poster_path": "/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg",
+      "id": 592834,
+      "adult": false,
+      "backdrop_path": "/yalJdTsb6EcDX5devj2ltWXuceO.jpg",
+      "original_language": "en",
+      "original_title": "My Spy",
+      "genre_ids": [
+        28,
+        35,
+        10751
+      ],
+      "title": "My Spy",
+      "vote_average": 6.9,
+      "overview": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+      "release_date": "2020-01-09"
+    },
+    {
+      "popularity": 69.896,
+      "vote_count": 1632,
+      "video": false,
+      "poster_path": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "id": 508439,
+      "adult": false,
+      "backdrop_path": "/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg",
+      "original_language": "en",
+      "original_title": "Onward",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        14,
+        10751
+      ],
+      "title": "Onward",
+      "vote_average": 7.9,
+      "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+      "release_date": "2020-02-29"
+    },
+    {
+      "popularity": 69.261,
+      "vote_count": 2843,
+      "video": false,
+      "poster_path": "/8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg",
+      "id": 619264,
+      "adult": false,
+      "backdrop_path": "/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+      "original_language": "es",
+      "original_title": "El hoyo",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "title": "The Platform",
+      "vote_average": 7.1,
+      "overview": "A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity…",
+      "release_date": "2019-11-08"
+    },
+    {
+      "popularity": 59.301,
+      "vote_count": 1098,
+      "video": false,
+      "poster_path": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+      "id": 522627,
+      "adult": false,
+      "backdrop_path": "/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+      "original_language": "en",
+      "original_title": "The Gentlemen",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "title": "The Gentlemen",
+      "vote_average": 7.8,
+      "overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he’s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+      "release_date": "2020-01-01"
+    },
+    {
+      "popularity": 46.007,
+      "vote_count": 567,
+      "video": false,
+      "poster_path": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "id": 446893,
+      "adult": false,
+      "backdrop_path": "/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
+      "original_language": "en",
+      "original_title": "Trolls World Tour",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        14,
+        10402,
+        10751
+      ],
+      "title": "Trolls World Tour",
+      "vote_average": 7.6,
+      "overview": "Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.",
+      "release_date": "2020-03-12"
+    },
+    {
+      "popularity": 41.372,
+      "vote_count": 12,
+      "video": false,
+      "poster_path": "/7BC2Mv2ekyBIto68YOrc1DRARv6.jpg",
+      "id": 597295,
+      "adult": false,
+      "backdrop_path": "/hOREXWuVMG0xSKjdwh6QeOoJDFo.jpg",
+      "original_language": "zh",
+      "original_title": "我的青春都是你",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "title": "Love The Way You Are",
+      "vote_average": 4.1,
+      "overview": "Opposites clash when spunky girl next door Lin Lin meets eccentric nerd Yuke. Despite being neighbors and schoolmates since childhood, Lin Lin and Yuke barely know each other. When the pair are both admitted into the same university, Lin Lin discovers that Yuke harbors a secret crush for campus beauty, Ruting. Ever the busybody, Lin Lin decides to matchmake Yuke and Ruting, only to find herself gradually falling for Yuke.",
+      "release_date": "2019-06-21"
+    },
+    {
+      "popularity": 56.851,
+      "vote_count": 1765,
+      "video": false,
+      "poster_path": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "id": 570670,
+      "adult": false,
+      "backdrop_path": "/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+      "original_language": "en",
+      "original_title": "The Invisible Man",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "title": "The Invisible Man",
+      "vote_average": 7.1,
+      "overview": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+      "release_date": "2020-02-26"
+    },
+    {
+      "popularity": 38.723,
+      "vote_count": 312,
+      "video": false,
+      "poster_path": "/dqA2FCzz4OMmXLitKopzf476RVB.jpg",
+      "id": 585244,
+      "adult": false,
+      "backdrop_path": "/ezcf15gSuZmW51N5yiqE3tWg9zu.jpg",
+      "original_language": "en",
+      "original_title": "I Still Believe",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "title": "I Still Believe",
+      "vote_average": 7.8,
+      "overview": "The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.",
+      "release_date": "2020-03-12"
+    },
+    {
+      "popularity": 33.391,
+      "vote_count": 37,
+      "video": false,
+      "poster_path": "/zaecdNcjcVDiOcDcgQCOgHELSo0.jpg",
+      "id": 605804,
+      "adult": false,
+      "backdrop_path": "/A7xO8NpdS7fbBKGmh84HbSD21OJ.jpg",
+      "original_language": "en",
+      "original_title": "The Wretched",
+      "genre_ids": [
+        27
+      ],
+      "title": "The Wretched",
+      "vote_average": 7.1,
+      "overview": "A rebellious teenage boy embarks on a gutsy crusade to stop the terrifying evil he suspects has possessed his neighbor in this bone-chilling occult thriller.",
+      "release_date": "2020-05-01"
+    },
+    {
+      "popularity": 34.875,
+      "vote_count": 5,
+      "video": false,
+      "poster_path": null,
+      "id": 678917,
+      "adult": false,
+      "backdrop_path": null,
+      "original_language": "en",
+      "original_title": "Beyond Before",
+      "genre_ids": [],
+      "title": "Beyond Before",
+      "vote_average": 4.4,
+      "overview": "A YouTube vlogger begins a seance one dark night.",
+      "release_date": "2020-05-07"
+    },
+    {
+      "popularity": 33.166,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/wYmqoOEyTOiLCGV5jWAqvPQ9Lr7.jpg",
+      "id": 532870,
+      "adult": false,
+      "backdrop_path": "/mAqgjvX5TjZWxCnqeWTwAC5SI7r.jpg",
+      "original_language": "en",
+      "original_title": "Run Sweetheart Run",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "title": "Run Sweetheart Run",
+      "vote_average": 0,
+      "overview": "A woman tries to get home alive after her blind date turns violent and goes chasing her through out Los Angeles.",
+      "release_date": "2020-05-08"
+    },
+    {
+      "popularity": 54.949,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/w7gMPj1EpNkcwQsNBQCX3uRnMHl.jpg",
+      "id": 553593,
+      "adult": false,
+      "backdrop_path": "/xAPhRf7M6fbLH7PyeUcXRvddcTY.jpg",
+      "original_language": "en",
+      "original_title": "Walkaway Joe",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "title": "Walkaway Joe",
+      "vote_average": 0,
+      "overview": "A young boy named Dallas, who goes on a search for his pool-hustling father after he abandons their family. Dallas is determined to bring his father home when he meets Joe Haley, a drifter wrestling with a past he'd rather forget, who feels responsible for Dallas' safety and reluctantly takes him in.",
+      "release_date": "2020-05-08"
+    },
+    {
+      "popularity": 44.842,
+      "vote_count": 613,
+      "video": false,
+      "poster_path": "/rmflsMjk4lxx2foNUtd1OKWv6vB.jpg",
+      "id": 514847,
+      "adult": false,
+      "backdrop_path": "/qfQ78ZKiouoM2yhAnfNblp9ijQE.jpg",
+      "original_language": "en",
+      "original_title": "The Hunt",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "title": "The Hunt",
+      "vote_average": 6.8,
+      "overview": "Twelve strangers wake up in a clearing. They don't know where they are—or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+      "release_date": "2020-03-11"
+    },
+    {
+      "popularity": 39.535,
+      "id": 263115,
+      "video": false,
+      "vote_count": 14113,
+      "vote_average": 7.8,
+      "title": "Logan",
+      "release_date": "2017-02-28",
+      "original_language": "en",
+      "original_title": "Logan",
+      "genre_ids": [
+        28,
+        18,
+        878
+      ],
+      "backdrop_path": "/yEv8c6i79vk06sZDC3Z9D8HQLVV.jpg",
+      "adult": false,
+      "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+      "poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+    },
+    {
+      "popularity": 41.092,
+      "vote_count": 0,
+      "video": false,
+      "poster_path": "/zqD8bMeNIKJLp0SSkh9gmkusO4X.jpg",
+      "id": 572299,
+      "adult": false,
+      "backdrop_path": "/lhalRpQ8gjc6PexUHZiI1dSzewK.jpg",
+      "original_language": "en",
+      "original_title": "How to Build a Girl",
+      "genre_ids": [
+        35
+      ],
+      "title": "How to Build a Girl",
+      "vote_average": 0,
+      "overview": "The journey of Midlands teenager Johanna Morrigan, who reinvents herself as Dolly Wilde: fast-talking, lady sex-adventurer, moves to London, and gets a job as music critic in the hope of saving her poverty stricken family in Wolverhampton. Based on Caitlin Moran's bestselling semi-autobiographical novel.",
+      "release_date": "2020-05-08"
+    }
+  ],
+  "page": 1,
+  "total_results": 620,
+  "dates": {
+    "maximum": "2020-05-14",
+    "minimum": "2020-03-27"
+  },
+  "total_pages": 31
+}

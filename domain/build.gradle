@@ -1,0 +1,5 @@
+apply from: "$rootDir/config/android/library.gradle"
+apply from: "$rootDir/config/dependencies/domain.gradle"
+androidExtensions {
+    experimental = true
+}

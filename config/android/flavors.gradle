@@ -1,0 +1,13 @@
+ext {
+    flavorConfig = {
+        flavorDimensions "store"
+        productFlavors {
+            bazaar {
+                dimension "store"
+            }
+            playStore {
+                dimension "store"
+            }
+        }
+    }
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="no_net_error">عدم اتصال به اینترنت</string>
+</resources>

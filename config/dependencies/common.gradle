@@ -1,0 +1,32 @@
+/**
+ * Declare all dependencies for the common project.
+ */
+apply from: "$rootDir/config/android/flavors.gradle"
+
+def apiProperties = new Properties()
+apiProperties.load(new FileInputStream(rootProject.file('api.properties')))
+
+android {
+    defaultConfig {
+        buildConfigField "String", "API_URL", "\"${apiProperties['API_URL']}\""
+        buildConfigField "String", "API_PR_URL", "\"${apiProperties['API_PR_URL']}\""
+    }
+
+    with flavorConfig
+}
+
+dependencies {
+    def libraries = rootProject.ext.libraries
+
+    kapt libraries.dagger.processor
+    kapt libraries.dagger.compiler
+
+    implementation libraries.kotlin.kotlin
+    implementation libraries.dagger.android
+    implementation libraries.rx.java
+    implementation libraries.retrofit.retrofit
+    implementation libraries.gson
+    implementation libraries.android.fragment
+    implementation libraries.android.support
+    implementation libraries.android.core_ktx
+}
