@@ -1,4 +1,4 @@
-# CarShow
+# Themoviedb
 
 This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2, Navigation, Paging and lifecycle for
 show themoviedb database movies
