@@ -5,9 +5,11 @@ show themoviedb database movies
 
 
 # Demo
- <pre>
-   <img src="demo.jpg" align="left"  width="100%" > 
-</pre>
+<p float="left">
+  <img src="/demo.jpg" width="100" />
+  <img src="/demo-2.jpg" width="100" /> 
+  <img src="/demo.jpg" width="100" />
+</p>
 
 <br /> 
 
