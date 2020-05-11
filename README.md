@@ -18,7 +18,6 @@ show themoviedb database movies
 <dl>
   <dt>Patterns and frameworks</dt>
   <dd>- MVVM (Model-View-ViewModel) using Google's new Architecture components ViewModel, LiveData, LifecycleObserver, etc.</dd>
-  <dd>- Recommended app architecture in https://developer.android.com/jetpack/docs/guide</dd>
   
   <dt>Remote Call APIs</dt>
   <dd>- Retrofit 2 to perform HTTP requests.</dd>
