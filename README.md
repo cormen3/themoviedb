@@ -39,7 +39,7 @@ show themoviedb database movies
 2.	domain:
 3.  presentation:
 4.	common:
-5.	common_text:
+5.	common_test:
 
 
 ## Overview
